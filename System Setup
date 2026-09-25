@@ -1,8 +1,8 @@
-# Installing Ubuntu Server — Step by Step
+# **Installing Ubuntu Server — Step by Step**
 
 This guide covers the actual installation process for Ubuntu Server, from creating the boot media to first login.
 
-## 1. Download Ubuntu Server
+## **1. Download Ubuntu Server**
 
 1. Go to the official Ubuntu website: https://ubuntu.com/download/server
 2. Download the latest *Ubuntu Server LTS* ISO file (LTS = Long Term Support, more stable).

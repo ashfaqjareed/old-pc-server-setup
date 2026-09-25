@@ -1,4 +1,7 @@
-Duration: Specify the time spent on the project.
+File Server and Web Server Setup Using Ubuntu Server on an Old PC
+
+
+Duration:1y
 Technologies Used: Ubuntu Server, Apache, Samba, Networking, Old PC hardware
 
 Overview:
